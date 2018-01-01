@@ -14,7 +14,7 @@
 
 所有的项目都会第一时间整理到上面的[思维导图](http://chenhaoact.com/github-project-recommend.html)中，通过这种形式能够实时的跟踪每个项目的star数，在需要用的时候也可以快点检索和查找。
 
-### 如果对你的工作或学习有所帮助，请到项目的[github](https://github.com/chenhaoact/github-project-recommend) star 支持一下哈，不胜感激！
+### **如果对你的工作或学习有所帮助，请到项目的[github](https://github.com/chenhaoact/github-project-recommend) star 支持一下哈，不胜感激！**
 
 以下是以往各期收集的项目（**持续更新中...**）：
 
@@ -180,5 +180,5 @@
 | 网络安全 | Awesome-Hacking [https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | 最近比较火的一个Awesome系列，收集了hack，安全研究方面的一些技术与学习资料，包括 Web，服务端，Android，ios，物联网等各种安全领域的资源。 | 很全的安全攻防资源整理，各个领域的开发者都能从中得到收获。 | 15979 |
 | 人工智能 | deeplearn.js [https://github.com/PAIR-code/deeplearnjs](https://github.com/PAIR-code/deeplearnjs) | 浏览器端机器智能框架，由 Google开发，是一款基于硬件加速的开源 JavaScript 库，可被用在机器智能领域。 | 该库将高性能的机器学习构建模块引入到 web 开发领域。 | 2291 |
 
-**（注：文中项目star数以整理当天为准）  **
+**（注：文中项目star数以整理当天为准）**
 
