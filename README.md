@@ -123,7 +123,7 @@
 | --- | --- | --- | --- | --- |
 | 拖拽效果实现 | draggable [https://github.com/Shopify/draggable](https://github.com/Shopify/draggable) | 一个轻量级，响应式的现代JavaScript拖放\(Drag & Drop\)库 | 比较新的拖拽效果库，对ES6很友好，同时支持排序，插拔等效果，API比较强大 | 7117 |
 | Vue最佳实践 | vue2-elm [https://github.com/bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) | 基于 vue2 + vuex + vue-router2 + fetch 构建一个具有 45 个页面的大型单页应用（饿了么移动端应用） | Vue2构建的大型应用，对Vue开发很有参考价值 | 12080 |
-| js基础 | You-Dont-Need-jQuery [https://github.com/oneuijs/You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) | 前端发展很快，现代浏览器原生 API 已经足够好用。我们并不需要为了操作 DOM、Event 等再学习一下 jQuery 的 API。同时由于 React、Angular、Vue 等框架的流行，直接操作 DOM 不再是好的模式，jQuery 使用场景大大减少。本项目总结了大部分 jQuery API 如何用原生 js 实现。 | 整理了各种用原生js实现 jQuery API的写法，有助于提生原生js的掌握程度，巩固基础，同时也可以减少项目对jQuery的依赖。 | 12239 |
+| js基础 | You-Dont-Need-jQuery [https://github.com/nefe/You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) | 前端发展很快，现代浏览器原生 API 已经足够好用。我们并不需要为了操作 DOM、Event 等再学习一下 jQuery 的 API。同时由于 React、Angular、Vue 等框架的流行，直接操作 DOM 不再是好的模式，jQuery 使用场景大大减少。本项目总结了大部分 jQuery API 如何用原生 js 实现。 | 整理了各种用原生js实现 jQuery API的写法，有助于提生原生js的掌握程度，巩固基础，同时也可以减少项目对jQuery的依赖。 | 12239 |
 
 ### 第六期（2017-09-22）
 
