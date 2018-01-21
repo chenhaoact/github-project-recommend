@@ -20,7 +20,30 @@
 
 ## 2018年
 
-更新中
+每周更新中...
+
+### 第三期（2018-1-19） 
+| 分类 | 项目名称与地址 | 项目简介 | star数 |
+| --- | --- | --- | --- |
+|动画特效|react-motion https://github.com/chenglou/react-motion|一个强大的react动画库。可以很容易的实现许多React组件的动画效果。它背后的思想是将 API 引用的内容作为 “Spring”，一个非常稳定的基础动画配置，在大多数情况下工作良好，同时也是可配置的。它不依赖于时间，所以当你想要取消／停止／撤销一个动画或在应用中使用可变维度的时候会更好用。|11660|
+|移动端测试|stf https://github.com/openstf/stf/|WEB端批量移动设备管理控制工具，直接通过浏览器控制多台智能手机，可用于产品兼容性测试。|6650|
+|编辑器|tui.editor https://github.com/nhnent/tui.editor|支持左右栏预览和wysiwyg模式的Markdown编辑器，能够轻松的通过拖拽与Markdown编辑器插入各种图表（如Excel中的表格，UML图等）。|4521|
+
+### 第二期（2018-1-12） 
+| 分类 | 项目名称与地址 | 项目简介 | star数 |
+| --- | --- | --- | --- |
+|React建站|Gatsby https://github.com/gatsbyjs/gatsby|Gatsby 是一个令人难以置信的静态站点生成器，它允许使用React作为渲染引擎引擎来快速搭建一个静态站点，通过在构建时通过服务器端渲染将动态的 React 组件呈现为静态 HTML 内容。这意味着用户可以获得静态站点的所有好处，比如不使用 JavaScript、搜索引擎友好性、非常快的加载速度等，也并没有失去现代 web 所期望的活力和交互性。一旦呈现为静态 HTML，客户端站点的 React 和 JavaScript 会接管它并添加动态的内容。 |17305|
+|设计工具|react-sketchapp https://github.com/airbnb/react-sketchapp|一个为设计系统量身定制的开源库。它通过将 React 元素渲染到 Sketch 来连接设计和开发之间的鸿沟。这个开源库给设计师们提供了一个全新的设计工作流程：在时下最流行的 React 前端框架下可以通过代码进行设计，并实时渲染到 Sketch 中审阅设计。在设计圈大红大紫的 Sketch 虽说占了此开源库的一半名字，但其实担当的只是一个浏览器的角色。真正留下的设计文档则成了代码。|10408|
+|python游戏外挂|python 微信《跳一跳》辅助https://github.com/wangshub/wechat_jump_game|2017 年 12 月 28 日下午，微信加入了「小游戏」功能，并提供了官方 DEMO「跳一跳」。这是一个 2.5D 插画风格的益智游戏，玩家可以通过按压屏幕时间的长短来控制这个「小人」跳跃的距离。分数越高，那么在好友排行榜更加靠前。此项目通过 Python 脚本自动运行，让你轻松霸榜。其中利用了图像识别精确测量出起始和目标点之间测距离，就可以估计按压的时间来精确跳跃。|12026|
+
+### 第一期（2018-1-5） 
+
+| 分类 | 项目名称与地址 | 项目简介 | star数 |
+| --- | --- | --- | --- |
+|前后端协同|realworld https://github.com/gothinkster/realworld|前端示例和后端代码库的集合和规范。提供了各种前端框架（如：React，Angular）与后端技术（如：Node.js，Django，Laravel）的最佳实践，技术栈很全，具有一定的参考价值。|11251|
+|Node.js|egg https://github.com/eggjs/egg/|为企业级应用而生的Node.js框架，特点如下：基于 Egg 定制上层框架的能力；高度可扩展的插件机制；内置多进程管理；基于 Koa 开发，性能优异；框架稳定，测试覆盖率高；渐进式开发。|6601|
+|React组件|react-content-loader https://github.com/danilowoz/react-content-loader|React应用中内容加载之前的占位动画，在页面完全加载出来之前，先显示大致轮廓的动画效果，而不是一片空白，从而提升产品的用户体验。|3386|
+
 
 ## 2017年
 
